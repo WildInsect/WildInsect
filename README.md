@@ -1,3 +1,4 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/WildInsect.png" alt="TryHackMe" width="300" align="right">
 <h1 align="center">Hi 👋, I'm WildInsect</h1>
 <h3 align="center">A Cyber Security Student and CTF Player</h3>
 <img src="https://i.imgur.com/pQT0l.gif" alt="HACKing" width="400" align="right">
