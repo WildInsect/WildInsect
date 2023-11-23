@@ -2,7 +2,7 @@
 <h3 align="center">A Cyber Security Student and CTF Player</h3>
 <img align="right" alt="HACKing" width="400" src="https://media.tenor.com/uFHo_PzoWxMAAAAd/gwsvenetia-kayla.gif">
 
-- 📝 I regularly write articles on [wildinsect.medium.com](wildinsect.medium.com)
+- 📝 I regularly write articles on [wildinsect.medium.com](https://wildinsect.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
