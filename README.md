@@ -1,4 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/WildInsect.png" alt="TryHackMe" width="300" align="right">
 <h1 align="center">Hi 👋, I'm WildInsect</h1>
 <h3 align="center">A Cyber Security Student and CTF Player</h3>
 <img src="https://i.imgur.com/pQT0l.gif" alt="HACKing" width="400" align="right">
@@ -18,10 +17,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
+<h3 align="left">TryHackMe Account:</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/WildInsect.png" alt="TryHackMe" width="250" align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wildinsect&show_icons=true&locale=en&layout=compact" alt="wildinsect" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wildinsect&show_icons=true&locale=en" alt="wildinsect" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wildinsect&" alt="wildinsect" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wildinsect&show_icons=true&locale=en" alt="wildinsect" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wildinsect&" alt="wildinsect" /></p>
 
